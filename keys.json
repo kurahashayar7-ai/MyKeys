@@ -1,4 +1,5 @@
 {
+  "maintenance": false,
   "keys": [
     { "id": "knamo_2011", "days": 30 },
     { "id": "russi_2007", "days": 30 },

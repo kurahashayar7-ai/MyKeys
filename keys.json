@@ -1,14 +1,6 @@
 {
-  "keys": [
-    { "id": "knamo_48h", "status": "success", "reason": "2 Day VIP", "expiry": "2026-04-09" },
-    { "id": "kurd_7days", "status": "success", "reason": "7 Days VIP", "expiry": "2026-04-14" },
-    { "id": "vip_15days", "status": "success", "reason": "15 Days VIP", "expiry": "2026-04-22" },
-    { "id": "pro_30days", "status": "success", "reason": "1 Month VIP", "expiry": "2026-05-07" },
-    { "id": "kurd_2months", "status": "success", "reason": "2 Months VIP", "expiry": "2026-06-07" },
-    { "id": "kurd_3months", "status": "success", "reason": "3 Months VIP", "expiry": "2026-07-07" },
-    { "id": "kurd_6months", "status": "success", "reason": "6 Months VIP", "expiry": "2026-10-07" },
-    { "id": "kurd_1year", "status": "success", "reason": "1 Year VIP", "expiry": "2027-04-07" },
-    { "id": "lifetime_2026", "status": "success", "reason": "End of 2026", "expiry": "2026-12-31" },
-    { "id": "permanent_99", "status": "success", "reason": "Permanent Access", "expiry": "2099-12-31" }
-  ]
+  "status": "success",
+  "id": "knmao_2011",
+  "reason": "Login Successful",
+  "expiry": "2026-12-31"
 }
